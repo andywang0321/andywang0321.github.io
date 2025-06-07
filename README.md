@@ -5,6 +5,21 @@ By joining this lab, you've expressed interest in the fields of machine learning
 Lukily for you, the research at NECL sits squarely on the intersection of all these fields!
 Here is a wecome package to get you started.
 
+## Table of Contents
+
+- [Introduction to Machine Learning](#introduction-to-machine-learning)
+  - [Classical Machine Learning](#classical-machine-learning)
+  - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
+  - [Above and Beyond](#above-and-beyond)
+- [Coding Best Practices](#coding-best-practices)
+  - [Becoming a Terminal Wizard](#becoming-a-terminal-wizard)
+  - [Becoming a Pythonista](#becoming-a-pythonista)
+  - [PyTorch for Deep Learning](#pytorch-for-deep-learning)
+  - [Other packages for ML Research](#other-packages-for-ml-research)
+- [General Advice](#general-advice)
+  - [Reading Academic Papers](#reading-academic-papers)
+  - [Expectations and Challenges](#expectations-and-challenges)
+
 ## Introduction to Machine Learning
 
 ### Classical Machine Learning
