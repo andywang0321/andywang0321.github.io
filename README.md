@@ -1,5 +1,4 @@
 # Welcome, Matthew!
-___
 
 Welcome to Dr. Kao's Neural Engineering and Computation Lab!
 By joining this lab, you've expressed interest in the fields of machine learning, signal processing, neuroscience, and robotics.
