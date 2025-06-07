@@ -145,6 +145,10 @@ In practice, that means:
 - Write unit tests with **pytest** (or your framework of choice) for any non-trivial function. Aim for fast, isolated tests that can run on every commit.
 - Document public interfaces with clear docstrings (e.g. NumPy or Google style). A little discipline up front saves days of head-scratching later.
 
+#### Abandon. Jupyter. Notebooks.
+
+- Watch [this video](https://youtu.be/7jiPeIFXb6U) by Joel Grus (author of that book from earlier) to learn why Jupyter notebooks are horrible in every way possible and why you should not use them.
+
 By building these habits, you’ll keep your codebase clean, catch bugs early, and make your research reproducible and robust.
 In short, you’ll prove to any skeptic that Python can be every bit as “serious” as C or C++—because you’ve treated it with the rigor it deserves. Welcome to true Python mastery!
 
